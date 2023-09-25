@@ -1,0 +1,15 @@
+/Users/tomassejstal/Documents/GitHub/C_sharp/kalkulacka/kalkulacka/bin/Debug/net6.0/kalkulacka
+/Users/tomassejstal/Documents/GitHub/C_sharp/kalkulacka/kalkulacka/bin/Debug/net6.0/kalkulacka.deps.json
+/Users/tomassejstal/Documents/GitHub/C_sharp/kalkulacka/kalkulacka/bin/Debug/net6.0/kalkulacka.runtimeconfig.json
+/Users/tomassejstal/Documents/GitHub/C_sharp/kalkulacka/kalkulacka/bin/Debug/net6.0/kalkulacka.dll
+/Users/tomassejstal/Documents/GitHub/C_sharp/kalkulacka/kalkulacka/bin/Debug/net6.0/kalkulacka.pdb
+/Users/tomassejstal/Documents/GitHub/C_sharp/kalkulacka/kalkulacka/obj/Debug/net6.0/kalkulacka.csproj.AssemblyReference.cache
+/Users/tomassejstal/Documents/GitHub/C_sharp/kalkulacka/kalkulacka/obj/Debug/net6.0/kalkulacka.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tomassejstal/Documents/GitHub/C_sharp/kalkulacka/kalkulacka/obj/Debug/net6.0/kalkulacka.AssemblyInfoInputs.cache
+/Users/tomassejstal/Documents/GitHub/C_sharp/kalkulacka/kalkulacka/obj/Debug/net6.0/kalkulacka.AssemblyInfo.cs
+/Users/tomassejstal/Documents/GitHub/C_sharp/kalkulacka/kalkulacka/obj/Debug/net6.0/kalkulacka.csproj.CoreCompileInputs.cache
+/Users/tomassejstal/Documents/GitHub/C_sharp/kalkulacka/kalkulacka/obj/Debug/net6.0/kalkulacka.dll
+/Users/tomassejstal/Documents/GitHub/C_sharp/kalkulacka/kalkulacka/obj/Debug/net6.0/refint/kalkulacka.dll
+/Users/tomassejstal/Documents/GitHub/C_sharp/kalkulacka/kalkulacka/obj/Debug/net6.0/kalkulacka.pdb
+/Users/tomassejstal/Documents/GitHub/C_sharp/kalkulacka/kalkulacka/obj/Debug/net6.0/kalkulacka.genruntimeconfig.cache
+/Users/tomassejstal/Documents/GitHub/C_sharp/kalkulacka/kalkulacka/obj/Debug/net6.0/ref/kalkulacka.dll

@@ -1,0 +1,15 @@
+/Users/tomassejstal/Documents/GitHub/C_sharp/nasobic/nasobic/bin/Release/net6.0/nasobic
+/Users/tomassejstal/Documents/GitHub/C_sharp/nasobic/nasobic/bin/Release/net6.0/nasobic.deps.json
+/Users/tomassejstal/Documents/GitHub/C_sharp/nasobic/nasobic/bin/Release/net6.0/nasobic.runtimeconfig.json
+/Users/tomassejstal/Documents/GitHub/C_sharp/nasobic/nasobic/bin/Release/net6.0/nasobic.dll
+/Users/tomassejstal/Documents/GitHub/C_sharp/nasobic/nasobic/bin/Release/net6.0/nasobic.pdb
+/Users/tomassejstal/Documents/GitHub/C_sharp/nasobic/nasobic/obj/Release/net6.0/nasobic.csproj.AssemblyReference.cache
+/Users/tomassejstal/Documents/GitHub/C_sharp/nasobic/nasobic/obj/Release/net6.0/nasobic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tomassejstal/Documents/GitHub/C_sharp/nasobic/nasobic/obj/Release/net6.0/nasobic.AssemblyInfoInputs.cache
+/Users/tomassejstal/Documents/GitHub/C_sharp/nasobic/nasobic/obj/Release/net6.0/nasobic.AssemblyInfo.cs
+/Users/tomassejstal/Documents/GitHub/C_sharp/nasobic/nasobic/obj/Release/net6.0/nasobic.csproj.CoreCompileInputs.cache
+/Users/tomassejstal/Documents/GitHub/C_sharp/nasobic/nasobic/obj/Release/net6.0/nasobic.dll
+/Users/tomassejstal/Documents/GitHub/C_sharp/nasobic/nasobic/obj/Release/net6.0/refint/nasobic.dll
+/Users/tomassejstal/Documents/GitHub/C_sharp/nasobic/nasobic/obj/Release/net6.0/nasobic.pdb
+/Users/tomassejstal/Documents/GitHub/C_sharp/nasobic/nasobic/obj/Release/net6.0/nasobic.genruntimeconfig.cache
+/Users/tomassejstal/Documents/GitHub/C_sharp/nasobic/nasobic/obj/Release/net6.0/ref/nasobic.dll
